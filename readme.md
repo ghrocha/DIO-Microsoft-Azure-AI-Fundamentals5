@@ -16,18 +16,20 @@ Neste exercício você explorará a IA generativa com o Microsoft Copilot.
 ## Faça login no Microsoft Copilot 👨🏽‍🏫👨🏽‍💻
 
 1.  Abra o [Microsoft Copilot](https://copilot.microsoft.com/) em `https://copilot.microsoft.com`e entre com sua conta pessoal da Microsoft.
-IMAGEM PASSO 1
+![Passo1](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/66ccd14c-be6c-4583-a54b-bb7e064fbc0d)
 2.  O Microsoft Copilot usa IA generativa para aprimorar os resultados de pesquisa do Bing. O que isto significa é que, diferentemente da pesquisa apenas, que retorna conteúdo existente, o Microsoft Copilot pode reunir novas respostas com base na modelagem de linguagem natural e nas informações da web.    
-3.  Na parte inferior da tela, você verá uma janela **Pergunte-me qualquer coisa** . À medida que você insere prompts na janela, o Copilot usa todo o thread da conversa para retornar respostas. Por exemplo, vamos tentar fazer uma série de perguntas sobre profissões.
+3.  Na parte inferior da tela, você verá uma janela **Pergunte-me qualquer coisa** . À medida que você insere prompts na janela, o Copilot usa todo o thread da conversa para retornar respostas. Por exemplo, vamos tentar fazer uma série de perguntas raças de cães.
 
 ## Usando o Copilot para identificar espécies de cachorros: :dog::dog2:
 
 4. Envie uma imagem que contenha cachorro.
-Imagem pessoal 2
+
+![Imagem pessoal 2](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/3a0f88bb-ed18-42fb-b04d-55b8a11fedfc)
+
 5. Certifique-se de que a imagem mostre claramente as características de um cachorro
 6. Escolhi essa de acervo pessoal:
 
-IMAGEM PASSO 2
+![Passo2](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/e0f484e0-8cc4-4468-85b2-c002fd93afe9)
 
 7.  Leia a descrição gerada pelo  **Copilot**.
 8.  Procure por palavras-chave como "Pinscher".
@@ -58,12 +60,16 @@ Lembre-se de que a aparência física não é o único fator para determinar a r
 3. Após, utilize essa descrição e crie sua imagem: 
 		Exemplo: "Crie uma imagem de um Pinscher, de pelagem preta e curta, correndo feliz e molhado em uma praia".
 
-IMAGEM PASSO 3
+![Passo3](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/3b65f4f4-81f0-4ba3-9303-88f0cec99aaa)
 
 4.  O  **Copilot**  processará sua instrução e criará uma imagem com base nas informações fornecidas.
 5.  Aguarde alguns segundos enquanto o  **Copilot**  "faz a mágica!"
 
-COLOCAR 4 IMAGENS GERADAS (DOWNLOADS)3
+![imagem1](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/82f816ff-626c-4d9d-8a98-de103b74ffa7)
+![imagem2](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/4e6c4348-52fc-4fa7-9984-9f1366da851c)
+![imagem3](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/dc3f0aa1-3f3b-4d02-9dbf-f38f29e038da)
+![imagem4](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals5/assets/96626042/bf18a0e3-8cfe-4c1b-a70e-ce5a09e19ddc)
+
 
 ## Comentários 📚 👨🏽‍🏫
 
