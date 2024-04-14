@@ -7,7 +7,7 @@ Explorando os Recursos de IA Generativa
 </span>
 </h1>
 
-## O que é?:book::pencil2::paperclip: 
+## O que é? :book: :pencil2: :paperclip: 
 É uma ferramenta de codificação que utiliza inteligência artificial para auxiliar os desenvolvedores durante o processo de escrita de código. Ele foi desenvolvido pela GitHub em parceria com a Microsoft e utiliza tecnologias como aprendizado de máquina e processamento de linguagem natural para oferecer sugestões de código em tempo real. O Copilot pode gerar trechos de código, completar linhas de código e oferecer insights sobre as melhores práticas de programação. Ele é integrado diretamente em ambientes de desenvolvimento, como o Visual Studio Code, para fornecer assistência aos programadores enquanto eles escrevem software.
 
 Neste exercício você explorará a IA generativa com o Microsoft Copilot.
